@@ -100,7 +100,7 @@ if(foodS == 0){
   fill("black");
   text("I am your Puppy 🐶tommy..😍 I am Hungry ",100,150);
   fill("black");
-  text("press space to feed the tommy",50,50);
+  text("press up arrow  to feed the tommy",50,50);
   fill("black");
   text("Milk Bottles Remaining  "+foodS,170,440);
 }
